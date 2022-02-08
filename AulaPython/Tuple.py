@@ -1,0 +1,5 @@
+loucos=('Jair Bolsonaro','Michel Temer','Dilma Roussef','Lula','Fernando Henrique Cardoso','Itamar Franco','Fernando Collor','José Sarney','João Figueredo','Ernesto Geisel',)
+print(sorted(loucos))
+print('Tamanho da Tupla:',len(loucos))
+print(loucos[0:5])
+print('O presidente Figueredo é de:',loucos.index('João Figueredo'))
